@@ -42,4 +42,4 @@ This project provides Twitter influencers with **actionable insights** to optimi
  <a href="https://github.com/SAIABHILASHKARRI37/twit_analysis/blob/main/Twit_pro.pbix">Dash Board</a>
 
 ---
-🔗 **Connect with me:** (Add your contact or GitHub profile link)
+🔗 **Connect with me:** [(Add your contact or GitHub profile link)](https://github.com/SAIABHILASHKARRI37)
