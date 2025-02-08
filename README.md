@@ -36,7 +36,7 @@ The main objective of this project is to extract valuable insights from Twitter 
 - **Best Performing Content**: Tweets with media (images/videos) tend to receive higher impressions and engagements compared to plain text tweets  
 
 This project provides Twitter influencers with **actionable insights** to optimize their content strategy and maximize their audience reach. 🚀  
-"https://github.com/SAIABHILASHKARRI37/twit_analysis/blob/main/Screenshot%202025-02-08%20224638.png"
+https://github.com/SAIABHILASHKARRI37/twit_analysis/blob/main/Screenshot%202025-02-08%20224638.png
  ## DashBoard Link
  <a href="https://github.com/SAIABHILASHKARRI37/twit_analysis/blob/main/Twit_pro.pbix">Dash Board</a>
 
